@@ -1,0 +1,9 @@
+Create
+npm install
+update
+npm i --save eslint-config-airbnb eslint-plugin-react eslint
+react-mounter react react-dom
+
+meteor add kadira:flow-router
+meteor add fourseven:scss
+meteor add poetic:materialize-scss
